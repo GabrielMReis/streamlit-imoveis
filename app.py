@@ -1,6 +1,4 @@
 
-git remote add origin https://github.com/GabrielMReis/streamlit-imoveis.git
-
 def calcular_beneficio():
     print("Simulador de Benefício da Nova Lei de IR sobre Imóveis")
     print("Insira os dados do imóvel para verificar se a nova lei compensa:\n")
